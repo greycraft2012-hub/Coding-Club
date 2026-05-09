@@ -1,0 +1,82 @@
+
+body {
+    background-color: #161616;
+    color: #e9e4e4;
+    font-family: "Courier New";
+            
+}
+p {
+    color: #e9e4e4;
+    font-family: "Courier New";
+    font-size: 22px;
+    position: relative; 
+    margin-left: 30px ;
+    margin-right: 100px;
+}
+h1 {
+    color: #e9e4e4;
+    font-family: "Courier New";
+    font-weight: bold;
+    font-size: 45px;
+    text-align: center;
+}
+h2 {
+    color: #e9e4e4;
+    font-family: "Courier New";
+    font-weight: bold;
+    font-size: 40px;
+    text-align: center;    
+}
+button {
+    background-color: #bdbdbd;
+    color: #000000;
+    font-family: "Courier New";
+    position: relative; 
+    margin-left: 60px ;
+    border-width: 3px;
+    padding: 10px 20px;     
+    border-radius: 7px;
+    box-shadow: #161616;
+    cursor: pointer;
+}
+.pythoncpp {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+    margin-top: 100px;
+    margin-right: 800px;
+}
+.htmlcssjs {
+    display: block;      
+    margin-left: 0;      
+    max-width: 100%;     
+    height: auto;    
+}  
+.leavebtn {
+    position : relative;
+    margin-left: 180px;
+    height : auto;
+    width : 1000px;
+}
+.link {
+    position : relative;
+    margin-left: 50px;
+    color : rgb(29, 118, 219);
+}
+.studentlist2526 {
+    position: relative;
+    margin-left: 65px;
+    margin-right: 100px;
+    font-size: 35px;
+    font-weight: bold;
+    color : yellow;
+}
+.Codingconcil2026 {
+    position: relative;
+    margin-left: 420px;
+}
+.c2026CodingMembers {
+    position: relative;
+    margin-left: 360px;
+}
