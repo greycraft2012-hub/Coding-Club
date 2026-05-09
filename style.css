@@ -54,10 +54,9 @@ button {
     height: auto;    
 }  
 .leavebtn {
-    position : relative;
-    margin-left: 180px;
-    height : auto;
-    width : 1000px;
+    display: block; 
+    width: 75%;     
+    margin: 20px auto;
 }
 .link {
     position : relative;
